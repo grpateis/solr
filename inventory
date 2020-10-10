@@ -1,0 +1,4 @@
+# Application Servers
+[solr]
+18.221.121.52 ansible_user=ubuntu ansible_ssh_private_key_file=./genival-learning.pem
+
